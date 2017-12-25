@@ -1,0 +1,9 @@
+camera:
+  url: http://192.168.1.11/mjpeg/snap.cgi?chn=0
+  username: admin
+  password: 123456
+aws:
+  region: eu-west-1
+  key:
+  secret:
+  bucket:
